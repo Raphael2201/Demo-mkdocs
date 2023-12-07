@@ -19,3 +19,4 @@ Avec le raspberry pi :
 - Mettre la carte sd dans le raspberry puis le configurer.
 - Installation de pi-hole (par-feu). Un par-feu limite les pubs sur des sites, cela permet aussi le blocage à l'accès a certain site (site immoraux), permet de limiter les personnes présentes.
 - Test de pi-hole en comparant un ordinateur qui utilise pi-hole à un ordinateur qui ne l'utilise pas sur un même site.
+- Pour finir nous pouvons bien remarquer que pi-hole marche sans aucun soucis et bloque 70% des pubs (stat marquée sur pi-hole de la raspberry)
