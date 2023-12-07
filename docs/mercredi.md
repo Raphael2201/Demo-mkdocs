@@ -2,8 +2,8 @@
 
 ## Matin
 
-- Continuer ma documentation 
-- Essai d'un démontage d'un mac mini pour vérifier la présence d'un ssd à l'intérieur mais arret par faute de matériel.
+- Continuer ma documentation.
+- Essai d'un démontage d'un mac mini pour savoir le moyen de stockage (ssd ou disque dur) à l'intérieur mais arret par faute de matériel.
 - Puis remontage du mac mini.
 - Nous sommes ensuite allés dans le bios du mac pour éffacer le disque dur donc nous avons pu remarquer que c'était un disque dur .
 - Nous avons tentés une réinstallation par le système de récupération mais cela n'a pas marché donc on est passé par la récupération par internet.
