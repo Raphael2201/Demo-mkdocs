@@ -7,7 +7,9 @@ Explication du **Markdown** puis création d'un diaporama en utilisant ce langua
 - Comment y faire les mises à jour sur ce système d'exploitation en passant par le terminal ?
 - Comment y installer des logiciels facilement tout en passant par le terminal ?
 
-![image de chat](75552.ngsversion.1422285553360.jpg)
+![image de chat](./images/75552.ngsversion.1422285553360.jpg)
+
+## Après midi
 
 Quelques commandes à connaitre dans le terminal :
 
